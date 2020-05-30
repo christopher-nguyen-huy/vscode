@@ -1,0 +1,34 @@
+{
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 12,
+    "window.zoomLevel": 0,
+    "editor.renderWhitespace": "none",
+    "window.menuBarVisibility": "toggle",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "editor.wordWrap": "on",
+    "editor.insertSpaces": false,
+    "workbench.activityBar.visible": false,
+    "files.exclude": {
+        "**/env": true,
+        "**/venv": true
+    },
+    "search.exclude": {
+        "**/env": true,
+        "**/venv": true
+    },
+    "search.searchOnTypeDebouncePeriod": 175,
+    "window.title": "${dirty}${activeEditorMedium}${separator}${rootName}${separator}${appName}",
+    "code-runner.enableAppInsights": false,
+    "code-runner.respectShebang": false,
+    "code-runner.ignoreSelection": true,
+    "code-runner.clearPreviousOutput": true,
+    "explorer.openEditors.visible": 0,
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.scrollback": 5000,
+    "workbench.startupEditor": "none"
+}
