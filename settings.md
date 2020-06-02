@@ -4,6 +4,8 @@
 - Telemetry: Disable
 - Crash report: Disable
 - Font size: 12
+- Detect indentation: uncheck
+- Max visible Suggestions: 15
 - Insert spaces: uncheck
 - Word wrap: on
 - Insert spaces: false

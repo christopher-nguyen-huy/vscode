@@ -2,13 +2,15 @@
 
 ## Install
 - Python
-- Jinja
 - Rust
 - Advanced New File
 - Insert Date String
 - Code runner
 - Debugger for Firefox
 - Sort lines
+- Colonize
+- Better Toml
+- Latex?
 - Docker?
 - Prettier? Too opiniated
 - Beautify? Only web stuff

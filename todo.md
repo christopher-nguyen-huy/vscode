@@ -1,6 +1,9 @@
 # Todo
 - Send output to editor
 - ctrl d skip current selection
+- newline in output
+- no autoclose ([{}]) if there is a character after it
+- Intellisense is case sensitive, can't find constants
 
 ## Lost shortcuts
 - select all occurences of find match

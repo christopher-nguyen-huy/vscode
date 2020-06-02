@@ -46,6 +46,8 @@
 | open folder | ctrl shift o |
 | view toggle output | ctrl k ctrl o |
 | Toggle panel | ctrl k ctrl p |
+| colonize.newline | ctrl ; |
+| colonize.endline | ctrl shift ; |
 
 
 ## Unset
@@ -97,3 +99,5 @@
 | Code runner custom command | ctrl alt k |
 | Code runner run by language | ctrl alt j |
 | Show all editors by appearance | ctrl k ctrl p |
+| breadcrumbs.focus | ctrl shift ; |
+| colonize.hold | ctrl alt enter |

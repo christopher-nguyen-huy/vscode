@@ -14,6 +14,7 @@
 - `>`: commands
 - `?`: command suggestions
 - `edt`: show open editors
+- `>ext install`: search addons
 
 ## Shortcuts to memorize:
 | Function | Shortcut |

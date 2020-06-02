@@ -30,5 +30,7 @@
     "terminal.integrated.cursorStyle": "line",
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.scrollback": 5000,
-    "workbench.startupEditor": "none"
+    "workbench.startupEditor": "none",
+	"editor.detectIndentation": false,
+	"editor.suggest.maxVisibleSuggestions": 15
 }
