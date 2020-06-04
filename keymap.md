@@ -50,7 +50,7 @@
 | colonize.endline | ctrl shift ; |
 | search.action.replaceAll (first) | atl a |
 | search.action.replaceAll (second) | atl a |
-
+| Markdown open preview | ctrl shift m |
 
 ## Unset
 | Function | Shortcut |
@@ -103,3 +103,4 @@
 | Show all editors by appearance | ctrl k ctrl p |
 | breadcrumbs.focus | ctrl shift ; |
 | colonize.hold | ctrl alt enter |
+| View toggle problems | ctrl shift m |
