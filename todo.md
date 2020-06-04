@@ -21,6 +21,9 @@
 
 ## Learn
 - Git/github
+- Tasks
+- Emmet
+- Typescript
 - debugging
 - tasks/builds
 - jypiter notebook

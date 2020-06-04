@@ -24,6 +24,17 @@
 - ?SQL Tools: mtxr.sqltools
 - ?Mysql (cweijan): cweijan.vscode-mysql-client2
 - ?MySQL (Jun Han): formulahendry.vscode-mysql
+- ?SettingsSync
+- ?Remove - SSH
+- ?Git lens
+- ?Peacock
+- ?Todo Hightlight
+- ?Bookmarks
+- ?Remote - Containers
+- ?Live Share: MS-vsliveshare.vsliveshare
+- ?Arduino
+- ?Platform.io
+- Project Manager
 
 ## Themes
 - Monokai seti: adityavm.vscode-monokai-seti
