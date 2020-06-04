@@ -16,6 +16,8 @@
 - Terminal cursor style: line
 - Terminal scrollback: 5000
 - Startup Editor: None
+- Extensions Ignore Recommandation: check
+- Extensions Show Recommendations only on demand: check
 - Window Title: `${dirty}${activeEditorMedium}${separator}${rootName}${separator}${appName}`
 - Files: Exclude:
 	```

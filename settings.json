@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Atom One Dark",
+    "workbench.colorTheme": "Dracula",
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.minimap.enabled": false,
     "editor.fontSize": 12,
@@ -32,5 +32,7 @@
     "terminal.integrated.scrollback": 5000,
     "workbench.startupEditor": "none",
 	"editor.detectIndentation": false,
-	"editor.suggest.maxVisibleSuggestions": 15
+	"editor.suggest.maxVisibleSuggestions": 15,
+	"extensions.ignoreRecommendations": true,
+	"extensions.showRecommendationsOnlyOnDemand": true
 }

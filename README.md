@@ -76,6 +76,14 @@ Workspace specific files are in a `.vscode` folder at the root. For example, `ta
 		  }
 	}
 	```
+## Extensions
+### From cli
+- `code --list-extensions`
+- `code --install-extension <extension-id>`
+
+### From command pallete
+- `ext install <extension-id>`
+
 
 ## Keybindings file `keybindings.json`
 - Needed to add [multiple shortcuts to 1 command](https://stackoverflow.com/a/45384050)

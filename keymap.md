@@ -48,6 +48,8 @@
 | Toggle panel | ctrl k ctrl p |
 | colonize.newline | ctrl ; |
 | colonize.endline | ctrl shift ; |
+| search.action.replaceAll (first) | atl a |
+| search.action.replaceAll (second) | atl a |
 
 
 ## Unset
