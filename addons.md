@@ -15,6 +15,8 @@
 - Bracket Pair Colorizer (slow): CoenraadS.bracket-pair-colorizer
 - Bracket Pair Colorizer 2 (not working everywhere): CoenraadS.bracket-pair-colorizer-2
 - Peacock: johnpapa.vscode-peacock
+- SQL Tools: mtxr.sqltools
+- Mysql Driver: mtxr.sqltools-driver-mysql
 - ?Debugger for Firefox: firefox-devtools.vscode-firefox-debug
 - ?Latex Workshop: James-Yu.latex-workshop
 - ?Docker: ms-azuretools.vscode-docker
@@ -22,7 +24,6 @@
 - ?Beautify (Only web stuff): HookyQR.beautify
 - ?Markdown Preview Enhanced: shd101wyy.markdown-preview-enhanced
 - ?Markdown All in One: yzhang.markdown-all-in-one
-- ?SQL Tools: mtxr.sqltools
 - ?Mysql (cweijan): cweijan.vscode-mysql-client2
 - ?MySQL (Jun Han): formulahendry.vscode-mysql
 - ?Settings Sync: shan.code-settings-sync
