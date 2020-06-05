@@ -34,3 +34,4 @@
 	- Enable app insights: Disable
 	- Ignore selection: Enable
 	- Respect shebang: Disable
+	- Show Run Icon in Editor Title Menu: Disable
