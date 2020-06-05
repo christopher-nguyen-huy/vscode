@@ -516,5 +516,87 @@
     {
         "key": "ctrl+k ctrl+p",
         "command": "workbench.action.togglePanel"
-    }
+    },
+    {
+        "key": "ctrl+shift+;",
+        "command": "-breadcrumbs.focus",
+        "when": "breadcrumbsPossible"
+    },
+    {
+        "key": "ctrl+/",
+        "command": "-extension.insertSemicolon",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+/",
+        "command": "-extension.insertSemicolonWithNewLine",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+alt+enter",
+        "command": "-colonize.hold",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+;",
+        "command": "colonize.newline",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+enter",
+        "command": "-colonize.newline",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+;",
+        "command": "colonize.endline",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+enter",
+        "command": "-colonize.endline",
+        "when": "editorTextFocus"
+	},
+	{
+		"key": "alt+a",
+		"command": "search.action.replaceAll",
+		"when": "replaceActive && searchViewletVisible && !findWidgetVisible"
+	},
+	{
+		"key": "ctrl+alt+enter",
+		"command": "-search.action.replaceAll",
+		"when": "replaceActive && searchViewletVisible && !findWidgetVisible"
+	},
+	{
+		"key": "alt+a",
+		"command": "editor.action.replaceAll",
+		"when": "editorFocus && findWidgetVisible"
+	},
+	{
+		"key": "ctrl+alt+enter",
+		"command": "-editor.action.replaceAll",
+		"when": "editorFocus && findWidgetVisible"
+	},
+	{
+		"key": "ctrl+shift+m",
+		"command": "-workbench.actions.view.problems"
+	},
+	{
+		"key": "ctrl+shift+m",
+		"command": "markdown.showPreview",
+		"when": "editorLangId == 'markdown'"
+	},
+	{
+		"key": "ctrl+shift+v",
+		"command": "-markdown.showPreview",
+		"when": "editorLangId == 'markdown'"
+	},
+	{
+		"key": "alt+meta+-",
+		"command": "-peacock.darken"
+	},
+	{
+		"key": "alt+meta+=",
+		"command": "-peacock.lighten"
+	}
 ]

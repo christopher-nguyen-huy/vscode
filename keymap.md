@@ -103,4 +103,5 @@
 | Show all editors by appearance | ctrl k ctrl p |
 | breadcrumbs.focus | ctrl shift ; |
 | colonize.hold | ctrl alt enter |
-| View toggle problems | ctrl shift m |
+| Peacock darken | alt super - |
+| Peacock lighten | alt super = |

@@ -14,6 +14,7 @@
 - SQL Formatter: adpyke.vscode-sql-formatter
 - Bracket Pair Colorizer (slow): CoenraadS.bracket-pair-colorizer
 - Bracket Pair Colorizer 2 (not working everywhere): CoenraadS.bracket-pair-colorizer-2
+- Peacock: johnpapa.vscode-peacock
 - ?Debugger for Firefox: firefox-devtools.vscode-firefox-debug
 - ?Latex Workshop: James-Yu.latex-workshop
 - ?Docker: ms-azuretools.vscode-docker
@@ -27,7 +28,6 @@
 - ?SettingsSync
 - ?Remove - SSH
 - ?Git lens
-- ?Peacock
 - ?Todo Hightlight
 - ?Bookmarks
 - ?Remote - Containers
