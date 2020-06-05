@@ -25,16 +25,20 @@
 - ?SQL Tools: mtxr.sqltools
 - ?Mysql (cweijan): cweijan.vscode-mysql-client2
 - ?MySQL (Jun Han): formulahendry.vscode-mysql
-- ?SettingsSync
-- ?Remove - SSH
-- ?Git lens
-- ?Todo Hightlight
-- ?Bookmarks
-- ?Remote - Containers
-- ?Live Share: MS-vsliveshare.vsliveshare
-- ?Arduino
-- ?Platform.io
-- Project Manager
+- ?Settings Sync: shan.code-settings-sync
+- ?Remote - SSH: ms-vscode-remote.remote-ssh
+- ?Git lens: eamodio.gitlens
+- ?Todo Hightlight: wayou.vscode-todo-highlight
+- ?Bookmarks: alefragnani.bookmarks
+- ?Remote - Containers: ms-vscode-remote.remote-containers
+- ?Live Share: ms-vsliveshare.vsliveshare-pack
+	- ms-vsliveshare.vsliveshare
+	- ms-vsliveshare.vsliveshare-audio
+- ?Arduino:
+	- vsciot-vscode.vscode-arduino
+	- lintangwisesa.arduino
+- ?Platform.io: platformio.platformio-ide
+- ?Project Manager: alefragnani.project-manager
 
 ## Themes
 - Monokai seti: adityavm.vscode-monokai-seti
@@ -44,9 +48,8 @@
 - One Dark: akamud.vscode-theme-onedark
 - One Dark Pro: zhuangtongfa.material-theme
 - One Monokai: azemoh.one-monokai
-- Material:
-	- Equinusocio.vsc-community-material-theme
-	- Equinusocio.vsc-material-theme
+- Material: equinusocio.vsc-material-theme
+	- equinusocio.vsc-community-material-theme
 	- equinusocio.vsc-material-theme-icons
 - Cobalt Next: dline.CobaltNext
 
