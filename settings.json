@@ -35,5 +35,6 @@
 	"editor.suggest.maxVisibleSuggestions": 15,
 	"extensions.ignoreRecommendations": true,
 	"extensions.showRecommendationsOnlyOnDemand": true,
-	"code-runner.showRunIconInEditorTitleMenu": false
+	"code-runner.showRunIconInEditorTitleMenu": false,
+	"sqltools.useNodeRuntime": true
 }
