@@ -10,7 +10,7 @@
     "telemetry.enableCrashReporter": false,
     "editor.wordWrap": "on",
     "editor.insertSpaces": false,
-    "workbench.activityBar.visible": false,
+    "workbench.activityBar.visible": true,
     "files.exclude": {
         "**/env": true,
         "**/venv": true
@@ -36,5 +36,8 @@
 	"extensions.ignoreRecommendations": true,
 	"extensions.showRecommendationsOnlyOnDemand": true,
 	"code-runner.showRunIconInEditorTitleMenu": false,
-	"sqltools.useNodeRuntime": true
+	"sqltools.useNodeRuntime": true,
+	"[sql]": {
+		"editor.defaultFormatter": "adpyke.vscode-sql-formatter"
+	}
 }
