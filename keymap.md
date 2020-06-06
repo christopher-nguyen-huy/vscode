@@ -105,3 +105,11 @@
 | colonize.hold | ctrl alt enter |
 | Peacock darken | alt super - |
 | Peacock lighten | alt super = |
+| sqltools bookmark selected query | ctrl e ctrl q |
+| sqltools bookmark delete | ctrl e ctrl r |
+| sqltools bookmark run | ctrl e ctrl a |
+| sqltools describe table | ctrl e ctrl d |
+| sqltools run selected query | ctrl e ctrl e |
+| sqltools show table records | ctrl e ctrl s |
+| sqltools history run | ctrl e ctrl h |
+| sqltools format selected query | ctrl e ctrl b |
