@@ -17,6 +17,7 @@
 - Peacock: johnpapa.vscode-peacock
 - SQL Tools: mtxr.sqltools
 - Mysql Driver: mtxr.sqltools-driver-mysql
+- CSS Formatter: aeschli.vscode-css-formatter
 - ?Debugger for Firefox: firefox-devtools.vscode-firefox-debug
 - ?Latex Workshop: James-Yu.latex-workshop
 - ?Docker: ms-azuretools.vscode-docker
