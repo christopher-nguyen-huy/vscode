@@ -1,5 +1,6 @@
 {
     "workbench.colorTheme": "Dracula",
+    "editor.accessibilitySupport": "off",
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.minimap.enabled": false,
     "editor.fontSize": 12,
