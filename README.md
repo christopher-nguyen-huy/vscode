@@ -81,6 +81,10 @@ Workspace specific files are in a `.vscode` folder at the root. For example, `ta
 - `code --list-extensions`
 - `code --install-extension <extension-id>`
 
+#### Windows
+On windows `code` points to a batch file, must use `call` before like `exec` in linux
+- `call code --install-extension <extension-id>`
+	
 ### From command pallete
 - `ext install <extension-id>`
 
