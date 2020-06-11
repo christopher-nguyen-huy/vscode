@@ -30,6 +30,7 @@
 - ?Settings Sync: shan.code-settings-sync
 - ?Remote - SSH: ms-vscode-remote.remote-ssh
 - ?Git lens: eamodio.gitlens
+- ?File Utils: sleistner.vscode-fileutils
 - ?Todo Hightlight: wayou.vscode-todo-highlight
 - ?Bookmarks: alefragnani.bookmarks
 - ?Remote - Containers: ms-vscode-remote.remote-containers
@@ -50,6 +51,7 @@
 - One Dark: akamud.vscode-theme-onedark
 - One Dark Pro: zhuangtongfa.material-theme
 - One Monokai: azemoh.one-monokai
+- Styrokai: jibjack.styrokai
 - Material: equinusocio.vsc-material-theme
 	- equinusocio.vsc-community-material-theme
 	- equinusocio.vsc-material-theme-icons
