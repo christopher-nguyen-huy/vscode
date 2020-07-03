@@ -92,6 +92,9 @@ On windows `code` points to a batch file, must use `call` before like `exec` in 
 ## Keybindings file `keybindings.json`
 - Needed to add [multiple shortcuts to 1 command](https://stackoverflow.com/a/45384050)
 
+## Tmux VSCode Terminal
+[Article](https://medium.com/@joaomoreno/persistent-terminal-sessions-in-vs-code-8fc469ed6b41)
+
 ## Not working!
 - [ctrl alt (num|arrow) shortcuts](https://github.com/Microsoft/vscode/issues/68787)
 	- want to use for move editor

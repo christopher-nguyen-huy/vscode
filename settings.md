@@ -19,6 +19,8 @@
 - Extensions Ignore Recommandation: check
 - Extensions Show Recommendations only on demand: check
 - Window Title: `${dirty}${activeEditorMedium}${separator}${rootName}${separator}${appName}`
+- Auto Closing Brackets: always
+- Tab Completion: on
 - Files: Exclude:
 	```
 	**/env

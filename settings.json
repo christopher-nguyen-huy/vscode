@@ -1,6 +1,5 @@
 {
     "workbench.colorTheme": "Dracula",
-    "editor.accessibilitySupport": "off",
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.minimap.enabled": false,
     "editor.fontSize": 12,
@@ -11,7 +10,7 @@
     "telemetry.enableCrashReporter": false,
     "editor.wordWrap": "on",
     "editor.insertSpaces": false,
-    "workbench.activityBar.visible": true,
+    "workbench.activityBar.visible": false,
     "files.exclude": {
         "**/env": true,
         "**/venv": true
@@ -40,5 +39,8 @@
 	"sqltools.useNodeRuntime": true,
 	"[sql]": {
 		"editor.defaultFormatter": "adpyke.vscode-sql-formatter"
-	}
+	},
+	"sqltools.highlightQuery": false,
+	"editor.tabCompletion": "on",
+	"editor.autoClosingBrackets": "always"
 }

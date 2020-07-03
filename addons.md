@@ -18,6 +18,7 @@
 - SQL Tools: mtxr.sqltools
 - Mysql Driver: mtxr.sqltools-driver-mysql
 - CSS Formatter: aeschli.vscode-css-formatter
+- File Utils: sleistner.vscode-fileutils
 - ?Debugger for Firefox: firefox-devtools.vscode-firefox-debug
 - ?Latex Workshop: James-Yu.latex-workshop
 - ?Docker: ms-azuretools.vscode-docker
@@ -30,7 +31,6 @@
 - ?Settings Sync: shan.code-settings-sync
 - ?Remote - SSH: ms-vscode-remote.remote-ssh
 - ?Git lens: eamodio.gitlens
-- ?File Utils: sleistner.vscode-fileutils
 - ?Todo Hightlight: wayou.vscode-todo-highlight
 - ?Bookmarks: alefragnani.bookmarks
 - ?Remote - Containers: ms-vscode-remote.remote-containers
