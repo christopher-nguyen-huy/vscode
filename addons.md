@@ -56,6 +56,7 @@
 	- equinusocio.vsc-community-material-theme
 	- equinusocio.vsc-material-theme-icons
 - Cobalt Next: dline.CobaltNext
+- Better Cobalt: afgomez.better-cobalt
 
 ### Theme repos
 - [vscodethemes](https://vscodethemes.com/)
