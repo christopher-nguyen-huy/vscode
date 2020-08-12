@@ -84,10 +84,18 @@ Workspace specific files are in a `.vscode` folder at the root. For example, `ta
 #### Windows
 On windows `code` points to a batch file, must use `call` before like `exec` in linux
 - `call code --install-extension <extension-id>`
+
+#### MacOS
+ - To launch from terminal, enable `Install 'code' command in PATH` in cmd-shift-p
+ - The default python is python2, to use system python3 set in settings:
+ ```
+"code-runner.executorMap": {
+	"python": "python3"
+}
+ ```
 	
 ### From command pallete
 - `ext install <extension-id>`
-
 
 ## Keybindings file `keybindings.json`
 - Needed to add [multiple shortcuts to 1 command](https://stackoverflow.com/a/45384050)
