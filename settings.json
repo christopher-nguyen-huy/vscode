@@ -1,46 +1,52 @@
 {
-    "workbench.colorTheme": "Dracula",
-    "editor.multiCursorModifier": "ctrlCmd",
-    "editor.minimap.enabled": false,
-    "editor.fontSize": 12,
-    "window.zoomLevel": 0,
-    "editor.renderWhitespace": "none",
-    "window.menuBarVisibility": "toggle",
-    "telemetry.enableTelemetry": false,
-    "telemetry.enableCrashReporter": false,
-    "editor.wordWrap": "on",
-    "editor.insertSpaces": false,
-    "workbench.activityBar.visible": false,
-    "files.exclude": {
-        "**/env": true,
-        "**/venv": true
-    },
-    "search.exclude": {
-        "**/env": true,
-        "**/venv": true
-    },
-    "search.searchOnTypeDebouncePeriod": 175,
-    "window.title": "${dirty}${activeEditorMedium}${separator}${rootName}${separator}${appName}",
-    "code-runner.enableAppInsights": false,
-    "code-runner.respectShebang": false,
-    "code-runner.ignoreSelection": true,
-    "code-runner.clearPreviousOutput": true,
-    "explorer.openEditors.visible": 0,
-    "terminal.integrated.fontSize": 12,
-    "terminal.integrated.cursorStyle": "line",
-    "terminal.integrated.cursorBlinking": true,
-    "terminal.integrated.scrollback": 5000,
-    "workbench.startupEditor": "none",
+	"workbench.colorTheme": "Dracula",
+	"workbench.activityBar.visible": false,
+	"workbench.startupEditor": "none",
+	"editor.fontSize": 12,
+	"window.zoomLevel": 0,
+	"window.menuBarVisibility": "toggle", // Windows/Linux
+	// Above is variable
+	"telemetry.enableTelemetry": false,
+	"telemetry.enableCrashReporter": false,
+	"editor.renderWhitespace": "none",
+	"editor.multiCursorModifier": "ctrlCmd",
+	"editor.minimap.enabled": false,
+	"editor.wordWrap": "on",
+	"editor.insertSpaces": false,
+	"editor.tabCompletion": "on",
+	"editor.autoClosingBrackets": "always",
 	"editor.detectIndentation": false,
 	"editor.suggest.maxVisibleSuggestions": 15,
+	"explorer.openEditors.visible": 0,
 	"extensions.ignoreRecommendations": true,
 	"extensions.showRecommendationsOnlyOnDemand": true,
-	"code-runner.showRunIconInEditorTitleMenu": false,
+	"terminal.integrated.fontSize": 12,
+	"terminal.integrated.cursorStyle": "line",
+	"terminal.integrated.cursorBlinking": true,
+	"terminal.integrated.scrollback": 5000,
+	"search.searchOnTypeDebouncePeriod": 175,
+	"window.title": "${dirty}${activeEditorMedium}${separator}${rootName}${separator}${appName}",
+	// Addons settings
 	"sqltools.useNodeRuntime": true,
+	"sqltools.highlightQuery": false,
+	"code-runner.enableAppInsights": false,
+	"code-runner.respectShebang": false,
+	"code-runner.ignoreSelection": true,
+	"code-runner.showRunIconInEditorTitleMenu": false,
+	"code-runner.clearPreviousOutput": true,
+	// Language settings
+	"files.exclude": {
+		"**/env": true,
+		"**/venv": true
+	},
+	"search.exclude": {
+		"**/env": true,
+		"**/venv": true
+	},
+	"code-runner.executorMap": {
+		"rust": "cargo run"
+	},
 	"[sql]": {
 		"editor.defaultFormatter": "adpyke.vscode-sql-formatter"
 	},
-	"sqltools.highlightQuery": false,
-	"editor.tabCompletion": "on",
-	"editor.autoClosingBrackets": "always"
 }
