@@ -33,6 +33,11 @@ def loadfile(filename):
 def output(data):
 	print(json.dumps(data, indent='\t'))
 
+def output_table(data):
+	for d in data:
+		res = f'{d["command"]} | {d["key"]}'
+		print(res)
+
 def print_help():
 	output = '''
 ./kbtool command options filename
@@ -46,7 +51,8 @@ def sort_keys(filename):
 	data = [Command(cmd) for cmd in data]
 	data.sort(key=lambda x: (x.remove, x.command))
 	data = [cmd.render() for cmd in data]
-	output(data)
+	output_table(data)
+	# output(data)
 
 def main(args):
 	commands = {
