@@ -63,13 +63,14 @@
 
 ## Disable Built-ins
 ### Features
-- emmet
 - extension authoring
+- github browser
 - grunt
 - gulp
 - jake
 - javascript debugger companion
 - microsoft account
+- node debug
 - node debug legacy
 - node debug auto-attach
 - npm support
