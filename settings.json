@@ -1,14 +1,18 @@
 {
+	// Workspace
 	"workbench.colorTheme": "Dracula",
 	"workbench.activityBar.visible": false,
-	"workbench.startupEditor": "none",
-	"editor.fontSize": 12,
 	"window.zoomLevel": 0,
-	"window.menuBarVisibility": "toggle", // Windows/Linux
-	// Above is variable
+	"editor.fontSize": 12,
+	"editor.renderWhitespace": "none",
+	// OS Specific
+	"window.menuBarVisibility": "toggle",
+	"terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+	// Standard
 	"telemetry.enableTelemetry": false,
 	"telemetry.enableCrashReporter": false,
-	"editor.renderWhitespace": "none",
+	"workbench.startupEditor": "none",
+	"editor.accessibilitySupport": "off",
 	"editor.multiCursorModifier": "ctrlCmd",
 	"editor.minimap.enabled": false,
 	"editor.wordWrap": "on",
@@ -26,7 +30,8 @@
 	"terminal.integrated.scrollback": 5000,
 	"search.searchOnTypeDebouncePeriod": 175,
 	"window.title": "${dirty}${activeEditorMedium}${separator}${rootName}${separator}${appName}",
-	// Addons settings
+	// Addons
+	"python.showStartPage": false,
 	"sqltools.useNodeRuntime": true,
 	"sqltools.highlightQuery": false,
 	"code-runner.enableAppInsights": false,
@@ -34,7 +39,7 @@
 	"code-runner.ignoreSelection": true,
 	"code-runner.showRunIconInEditorTitleMenu": false,
 	"code-runner.clearPreviousOutput": true,
-	// Language settings
+	// Languages
 	"files.exclude": {
 		"**/env": true,
 		"**/venv": true
