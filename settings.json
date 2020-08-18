@@ -29,6 +29,7 @@
 	"terminal.integrated.cursorBlinking": true,
 	"terminal.integrated.scrollback": 5000,
 	"search.searchOnTypeDebouncePeriod": 175,
+	"breadcrumbs.enabled": false,
 	"window.title": "${dirty}${activeEditorMedium}${separator}${rootName}${separator}${appName}",
 	// Addons
 	"python.showStartPage": false,
