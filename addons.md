@@ -85,5 +85,17 @@
 - handlebars
 - hlsl
 - objective c
+- perl
+- php
+- powershell
+- pug
+- r
 - razor
 - shaderlabs
+
+### Themes
+- Default Themes
+- Kimbie Dark
+- Quiet Light Theme
+- Red Theme
+- Solarized Light Theme
