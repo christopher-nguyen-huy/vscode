@@ -2,56 +2,10 @@
 ## Set
 | Function | Shortcut |
 | :- | :- |
-| editor zoom in | ctrl = |
-| editor zoom out | ctrl - |
-| editor zoom reset | ctrl 0 |
-| workbench zoom in | ctrl shift = |
-| workbench zoom out | ctrl shift - |
-| workbench zoom reset | ctrl shift 0 |
-| split left | ctrl k left |
-| split right | ctrl k right |
-| split bottom | ctrl k down |
-| split top | ctrl k up |
-| toggle block comment | ctrl k ctrl c |
-| toggle whitespace | alt y |
 | run | ctrl shift b |
-| show extensions | ctrl k a |
-| toggle side bar | ctrl b |
-| toggle activity bar | ctrl shift a |
-| join lines | ctrl j |
-| add cursor to line ends | ctrl alt l |
-| add cursor above | alt up |
-| add cursor below | alt down |
-| go to symbol | ctrl r |
-| change language mode | ctrl shif l |
-| transform uppercase | ctrl k u |
-| transform lowercase | ctrl k l |
-| transform titlercase | ctrl k t |
-| Fold | ctrl [ |
-| Unfold | ctrl ] |
-| Move editor into next group | ctrl k ctrl right |
-| Move editor into prev group | ctrl k ctrl left |
-| Move editor into first group | ctrl k 1 |
-| Move editor into last group | ctrl k 9 |
-| Toggle fold | ctrl \ |
-| Format document (first) | ctrl i |
-| Format document (second) | ctrl i |
-| Format selection (second) | ctrl shift i |
-| workbench.action.nextEditor | ctrl tab |
-| workbench.action.previousEditor | ctrl shift tab |
-| workbench.action.nextEditor | ctrl pageup |
-| workbench.action.previousEditor | ctrl pagedown |
-| show explorer | ctrl e |
-| advanced new file | ctrl alt o |
-| open folder | ctrl shift o |
-| view toggle output | ctrl k ctrl o |
-| Toggle panel | ctrl k ctrl p |
-| colonize.newline | ctrl ; |
-| colonize.endline | ctrl shift ; |
 | search.action.replaceAll (first) | atl a |
 | search.action.replaceAll (second) | atl a |
-| Markdown open preview | ctrl shift m |
-
+ctrl dir scroll?
 ## Unset
 | Function | Shortcut |
 | :- | :- |
