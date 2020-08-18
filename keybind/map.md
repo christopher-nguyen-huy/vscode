@@ -5,7 +5,7 @@
 | run | ctrl shift b |
 | search.action.replaceAll (first) | atl a |
 | search.action.replaceAll (second) | atl a |
-ctrl dir scroll?
+
 ## Unset
 | Function | Shortcut |
 | :- | :- |
