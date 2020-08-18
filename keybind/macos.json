@@ -419,5 +419,48 @@
 	{
 		"key": "alt+cmd+n",
 		"command": "-extension.advancedNewFile"
+	},
+	{
+		"key": "cmd+e cmd+r",
+		"command": "-sqltools.deleteBookmark"
+	},
+	{
+		"key": "cmd+e cmd+a",
+		"command": "-sqltools.runFromBookmarks"
+	},
+	{
+		"key": "cmd+e q",
+		"command": "-sqltools.bookmarkSelection",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "cmd+e cmd+d",
+		"command": "-sqltools.describeTable"
+	},
+	{
+		"key": "cmd+e cmd+b",
+		"command": "-sqltools.formatSql",
+		"when": "editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "cmd+e cmd+h",
+		"command": "-sqltools.runFromHistory"
+	},
+	{
+		"key": "cmd+e cmd+e",
+		"command": "-sqltools.executeQuery",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "cmd+e cmd+s",
+		"command": "-sqltools.showRecords"
+	},
+	{
+		"key": "ctrl+alt+j",
+		"command": "-code-runner.runByLanguage"
+	},
+	{
+		"key": "ctrl+alt+k",
+		"command": "-code-runner.runCustomCommand"
 	}
 ]

@@ -1,8 +1,6 @@
 # Todo
 - Send output to editor
-- ctrl d skip current selection
-- newline in output
-- no autoclose ([{}]) if there is a character after it
+- newline in coderunner output
 - Intellisense is case sensitive, can't find constants
 
 ## Lost shortcuts
