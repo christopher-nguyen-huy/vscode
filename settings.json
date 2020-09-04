@@ -3,7 +3,7 @@
 	"workbench.colorTheme": "Dracula",
 	"workbench.activityBar.visible": false,
 	"window.zoomLevel": 0,
-	"editor.fontSize": 12,
+	"editor.fontSize": 11,
 	"editor.renderWhitespace": "none",
 	// OS Specific
 	"window.menuBarVisibility": "toggle",
