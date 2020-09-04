@@ -525,4 +525,14 @@
 		"command": "-scrollLineUp",
 		"when": "textInputFocus"
 	},
+	{
+		"key": "alt+a",
+		"command": "editor.action.replaceAll",
+		"when": "editorFocus && findWidgetVisible && replaceInputFocussed"
+	},
+	{
+		"key": "cmd+enter",
+		"command": "-editor.action.replaceAll",
+		"when": "editorFocus && findWidgetVisible && replaceInputFocussed"
+	}
 ]
