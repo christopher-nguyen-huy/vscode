@@ -6,7 +6,7 @@
 - Advanced New File: patbenatar.advanced-new-file
 - Insert Date String: jsynowiec.vscode-insertdatestring
 - Code runner: formulahendry.code-runner
-- Sort lines: Tyriar.sort-lines
+- Sort lines: tyriar.sort-lines
 - Colonize: vmsynkov.colonize
 - Better Toml: bungcip.better-toml
 - Better Jinja: samuelcolvin.jinjahtml
