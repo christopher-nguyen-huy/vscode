@@ -19,6 +19,8 @@
 - Mysql Driver: mtxr.sqltools-driver-mysql
 - CSS Formatter: aeschli.vscode-css-formatter
 - File Utils: sleistner.vscode-fileutils
+- Arduino: vsciot-vscode.vscode-arduino
+- Platform.io: platformio.platformio-ide
 - ?Debugger for Firefox: firefox-devtools.vscode-firefox-debug
 - ?Latex Workshop: James-Yu.latex-workshop
 - ?Docker: ms-azuretools.vscode-docker
@@ -37,10 +39,6 @@
 - ?Live Share: ms-vsliveshare.vsliveshare-pack
 	- ms-vsliveshare.vsliveshare
 	- ms-vsliveshare.vsliveshare-audio
-- ?Arduino:
-	- vsciot-vscode.vscode-arduino
-	- lintangwisesa.arduino
-- ?Platform.io: platformio.platformio-ide
 - ?Project Manager: alefragnani.project-manager
 
 ## Themes
