@@ -45,7 +45,7 @@
 
 ## Themes
 - Monokai seti: adityavm.vscode-monokai-seti
-- Theme seti monokai: SmukkeKim.theme-setimonokai
+- Theme seti monokai: smukkeKim.theme-setimonokai
 - Monokai Vibrant: s3gf4ult.monokai-vibrant
 - Dracula: dracula-theme.theme-dracula
 - One Dark: akamud.vscode-theme-onedark
