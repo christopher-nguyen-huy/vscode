@@ -20,7 +20,7 @@
 		"command": "editor.action.toggleRenderWhitespace"
 	},
 	{
-		"key": "ctrl+k a",
+		"key": "ctrl+shift+a",
 		"command": "workbench.view.extensions"
 	},
 	{
@@ -159,7 +159,7 @@
 		"when": "editorTextFocus && !editorReadonly"
 	},
 	{
-		"key": "ctrl+shift+a",
+		"key": "ctrl+k a",
 		"command": "workbench.action.toggleActivityBarVisibility"
 	},
 	{
