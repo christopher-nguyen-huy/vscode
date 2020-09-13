@@ -1,4 +1,4 @@
-trl[
+[
 	{
 		"key": "ctrl+0",
 		"command": "editor.action.fontZoomReset"
@@ -13,7 +13,7 @@ trl[
 	},
 	{
 		"key": "ctrl+-",
-		"command"`: "editor.action.fontZoomOut"
+		"command": "editor.action.fontZoomOut"
 	},
 	{
 		"key": "alt+y",
