@@ -45,6 +45,7 @@
 - Monokai seti: adityavm.vscode-monokai-seti
 - Theme seti monokai: smukkeKim.theme-setimonokai
 - Monokai Vibrant: s3gf4ult.monokai-vibrant
+- Monokai Aora (Sweet Dark): tuguldurio.monokai-aora
 - Dracula: dracula-theme.theme-dracula
 - One Dark: akamud.vscode-theme-onedark
 - One Dark Pro: zhuangtongfa.material-theme
@@ -54,7 +55,9 @@
 	- equinusocio.vsc-community-material-theme
 	- equinusocio.vsc-material-theme-icons
 - Cobalt Next: dline.CobaltNext
+- Cobalt2: wesbos.theme-cobalt2
 - Better Cobalt: afgomez.better-cobalt
+- Shades of Purple: ahmadawais.shades-of-purple
 
 ### Theme repos
 - [vscodethemes](https://vscodethemes.com/)
