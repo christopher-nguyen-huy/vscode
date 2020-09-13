@@ -40,6 +40,7 @@
 	"code-runner.ignoreSelection": true,
 	"code-runner.showRunIconInEditorTitleMenu": false,
 	"code-runner.clearPreviousOutput": true,
+	"platformio-ide.disablePIOHomeStartup": true,
 	// Languages
 	"files.exclude": {
 		"**/env": true,
