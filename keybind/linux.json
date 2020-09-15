@@ -640,5 +640,5 @@
 	{
 		"key": "ctrl+`",
 		"command": "workbench.action.togglePanel"
-	}	
+	}
 ]
