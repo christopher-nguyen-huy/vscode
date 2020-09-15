@@ -40,7 +40,9 @@
 	"code-runner.ignoreSelection": true,
 	"code-runner.showRunIconInEditorTitleMenu": false,
 	"code-runner.clearPreviousOutput": true,
+	"platformio-ide.disableToolbar": true,
 	"platformio-ide.disablePIOHomeStartup": true,
+	"C_Cpp.updateChannel": "Insiders",
 	// Languages
 	"files.exclude": {
 		"**/env": true,
