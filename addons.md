@@ -12,8 +12,8 @@
 - Better Jinja: samuelcolvin.jinjahtml
 - Trusty Rusty Snippets: polypus74.trusty-rusty-snippets
 - SQL Formatter: adpyke.vscode-sql-formatter
-- Bracket Pair Colorizer (slow): CoenraadS.bracket-pair-colorizer
-- Bracket Pair Colorizer 2 (not working everywhere): CoenraadS.bracket-pair-colorizer-2
+- Bracket Pair Colorizer (slow): coenraads.bracket-pair-colorizer
+- Bracket Pair Colorizer 2 (not working everywhere): coenraads.bracket-pair-colorizer-2
 - Peacock: johnpapa.vscode-peacock
 - SQL Tools: mtxr.sqltools
 - Mysql Driver: mtxr.sqltools-driver-mysql
@@ -22,10 +22,10 @@
 - Arduino: vsciot-vscode.vscode-arduino
 - Platform.io: platformio.platformio-ide
 - ?Debugger for Firefox: firefox-devtools.vscode-firefox-debug
-- ?Latex Workshop: James-Yu.latex-workshop
+- ?Latex Workshop: james-yu.latex-workshop
 - ?Docker: ms-azuretools.vscode-docker
 - ?Prettier (Too opiniated): esbenp.prettier-vscode
-- ?Beautify (Only web stuff): HookyQR.beautify
+- ?Beautify (Only web stuff): hookyqr.beautify
 - ?Markdown Preview Enhanced: shd101wyy.markdown-preview-enhanced
 - ?Markdown All in One: yzhang.markdown-all-in-one
 - ?Mysql (cweijan): cweijan.vscode-mysql-client2
