@@ -513,10 +513,6 @@
 		"command": "-workbench.action.showAllEditors"
 	},
 	{
-		"key": "ctrl+k ctrl+p",
-		"command": "workbench.action.togglePanel"
-	},
-	{
 		"key": "ctrl+shift+;",
 		"command": "-breadcrumbs.focus",
 		"when": "breadcrumbsPossible"
