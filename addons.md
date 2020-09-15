@@ -1,24 +1,24 @@
 # VS Code Addons
 
 ## Install
-- Python: ms-python.python
-- Rust: rust-lang.rust
 - Advanced New File: patbenatar.advanced-new-file
+- File Utils: sleistner.vscode-fileutils
 - Insert Date String: jsynowiec.vscode-insertdatestring
-- Code runner: formulahendry.code-runner
 - Sort lines: tyriar.sort-lines
-- Colonize: vmsynkov.colonize
-- Better Toml: bungcip.better-toml
-- Better Jinja: samuelcolvin.jinjahtml
-- Trusty Rusty Snippets: polypus74.trusty-rusty-snippets
-- SQL Formatter: adpyke.vscode-sql-formatter
 - Bracket Pair Colorizer (slow): coenraads.bracket-pair-colorizer
 - Bracket Pair Colorizer 2 (not working everywhere): coenraads.bracket-pair-colorizer-2
+- Code runner: formulahendry.code-runner
 - Peacock: johnpapa.vscode-peacock
+- SQL Formatter: adpyke.vscode-sql-formatter
+- CSS Formatter: aeschli.vscode-css-formatter
+- Python: ms-python.python
+- Better Jinja: samuelcolvin.jinjahtml
+- Rust: rust-lang.rust
+- Trusty Rusty Snippets: polypus74.trusty-rusty-snippets
+- Colonize: vmsynkov.colonize
+- Better Toml: bungcip.better-toml
 - SQL Tools: mtxr.sqltools
 - Mysql Driver: mtxr.sqltools-driver-mysql
-- CSS Formatter: aeschli.vscode-css-formatter
-- File Utils: sleistner.vscode-fileutils
 - Arduino: vsciot-vscode.vscode-arduino
 - Platform.io: platformio.platformio-ide
 - ?Debugger for Firefox: firefox-devtools.vscode-firefox-debug
