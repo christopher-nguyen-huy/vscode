@@ -33,7 +33,7 @@
 	"window.title": "${dirty}${activeEditorMedium}${separator}${rootName}${separator}${appName}",
 	// Addons
 	"python.showStartPage": false,
-	"sqltools.useNodeRuntime": true,
+	"sqltools.useNodeRuntime": true, // Must install nodejs
 	"sqltools.highlightQuery": false,
 	"code-runner.enableAppInsights": false,
 	"code-runner.respectShebang": false,
