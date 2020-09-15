@@ -64,40 +64,41 @@
 
 ## Disable Built-ins
 ### Features
-- extension authoring
-- github browser
-- grunt
-- gulp
-- jake
-- javascript debugger companion
-- microsoft account
-- node debug
-- node debug legacy
-- node debug auto-attach
-- npm support
-- php language features
-- vscode-js-profile-table
+- extension authoring: vscode.extension-editing
+- github browser: vscode.github
+- github authentication: vscode.github-authentication
+- grunt: vscode.grunt
+- gulp: vscode.gulp
+- jake: vscode.jake
+- javascript debugger companion: ms-vscode.js-debug-companion
+- microsoft account: vscode.
+- node debug: vscode.node-debug2
+- node debug legacy: ms-vscode.node-debug
+- node debug auto-attach: vscode.debug-auto-launch
+- npm support: vscode.npm
+- php language features: vscode.php-language-features
+- vscode-js-profile-table: ms-vscode.vscode-js-profile-table
 
 ### Programming Languages
-- c#
-- clojure
-- coffeescript
-- f#
-- groovy
-- handlebars
-- hlsl
-- objective c
-- perl
-- php
-- powershell
-- pug
-- r
-- razor
-- shaderlabs
+- c#: vscode.csharp
+- clojure: vscode.clojure
+- coffeescript: vscode.coffeescript
+- f#: vscode.fsharp
+- groovy: vscode.groovy
+- handlebars: vscode.handlebars
+- hlsl: vscode.hlsl
+- objective c: vscode.objective-c
+- perl: vscode.
+- php: vscode.php
+- powershell: vscode.
+- pug: vscode.pug
+- r: vscode.r
+- razor: vscode.razor
+- shaderlabs: vscode.shaderlab
 
 ### Themes
-- Default Themes
-- Kimbie Dark
-- Quiet Light Theme
-- Red Theme
-- Solarized Light Theme
+- Default Themes: vscode.theme-defaults
+- Kimbie Dark: vscode.theme-kimbie-dark
+- Quiet Light Theme: vscode.theme-quietlight
+- Red Theme: vscode.theme-red
+- Solarized Light Theme: vscode.theme-solarized-light
