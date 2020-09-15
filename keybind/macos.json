@@ -538,5 +538,25 @@
 	{
 		"key": "ctrl+`",
 		"command": "workbench.action.togglePanel"
+	},
+	{
+		"key": "ctrl+end",
+		"command": "cursorBottom",
+		"when": "textInputFocus"
+	},
+	{
+		"key": "shift+ctrl+end",
+		"command": "cursorBottomSelect",
+		"when": "textInputFocus"
+	},
+	{
+		"key": "ctrl+home",
+		"command": "cursorTop",
+		"when": "textInputFocus"
+	},
+	{
+		"key": "shift+ctrl+home",
+		"command": "cursorTopSelect",
+		"when": "textInputFocus"
 	}
 ]
