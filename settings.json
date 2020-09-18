@@ -18,6 +18,7 @@
 	"editor.wordWrap": "on",
 	"editor.insertSpaces": false,
 	"editor.tabCompletion": "on",
+	"editor.quickSuggestions": true,
 	"editor.autoClosingBrackets": "always",
 	"editor.detectIndentation": false,
 	"editor.suggest.maxVisibleSuggestions": 15,
