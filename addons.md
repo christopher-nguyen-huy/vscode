@@ -23,6 +23,8 @@
 - Arduino: vsciot-vscode.vscode-arduino
 - Platform.io: platformio.platformio-ide
 - C/C++: ms-vscode.cpptools
+- Autohotkey: slevesque.vscode-autohotkey
+- Autohotkey Plus: cweijan.vscode-autohotkey-plus
 - ?Debugger for Firefox: firefox-devtools.vscode-firefox-debug
 - ?Latex Workshop: james-yu.latex-workshop
 - ?Docker: ms-azuretools.vscode-docker
