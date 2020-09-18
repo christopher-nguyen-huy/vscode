@@ -15,12 +15,14 @@
 - Better Jinja: samuelcolvin.jinjahtml
 - Rust: rust-lang.rust
 - Trusty Rusty Snippets: polypus74.trusty-rusty-snippets
+- CodeLLDB: vadimcn.vscode-lldb
 - Colonize: vmsynkov.colonize
 - Better Toml: bungcip.better-toml
 - SQL Tools: mtxr.sqltools
 - Mysql Driver: mtxr.sqltools-driver-mysql
 - Arduino: vsciot-vscode.vscode-arduino
 - Platform.io: platformio.platformio-ide
+- C/C++: ms-vscode.cpptools
 - ?Debugger for Firefox: firefox-devtools.vscode-firefox-debug
 - ?Latex Workshop: james-yu.latex-workshop
 - ?Docker: ms-azuretools.vscode-docker
