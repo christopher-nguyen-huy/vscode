@@ -16,6 +16,7 @@
 	"editor.multiCursorModifier": "ctrlCmd",
 	"editor.minimap.enabled": false,
 	"editor.wordWrap": "on",
+	"editor.links": false,
 	"editor.insertSpaces": false,
 	"editor.tabCompletion": "on",
 	"editor.quickSuggestions": true,
