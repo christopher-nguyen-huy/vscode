@@ -75,7 +75,8 @@
 - gulp: vscode.gulp
 - jake: vscode.jake
 - javascript debugger companion: ms-vscode.js-debug-companion
-- microsoft account: vscode.
+- markdown language: vscode.markdown-language-features
+- microsoft account: vscode.microsoft-authentication
 - node debug: vscode.node-debug2
 - node debug legacy: ms-vscode.node-debug
 - node debug auto-attach: vscode.debug-auto-launch

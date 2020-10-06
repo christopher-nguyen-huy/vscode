@@ -49,8 +49,11 @@
 | Code stop | ctrl alt m |
 | Open intellisense | ctrl space |
 
+## Snippets
+- Create with [Snippet-Generator](https://snippet-generator.app)
+- Stores in `.config/Code - OSS/User/snippets/`
 
-## `if __name__ == '__main__':`
+### `if __name__ == '__main__':`
 `main` is the snippet
 
 ## Workspaces
