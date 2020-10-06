@@ -1,6 +1,6 @@
 {
 	// Workspace
-	"workbench.colorTheme": "Dracula",
+	"workbench.colorTheme": "Monokai Vibrant",
 	"workbench.activityBar.visible": false,
 	"window.zoomLevel": 0,
 	"editor.fontSize": 11,
@@ -14,6 +14,7 @@
 	"workbench.startupEditor": "none",
 	"editor.accessibilitySupport": "off",
 	"editor.multiCursorModifier": "ctrlCmd",
+	"editor.fontLigatures": true,
 	"editor.minimap.enabled": false,
 	"editor.wordWrap": "on",
 	"editor.links": false,
@@ -26,7 +27,7 @@
 	"explorer.openEditors.visible": 0,
 	"extensions.ignoreRecommendations": true,
 	"extensions.showRecommendationsOnlyOnDemand": true,
-	"terminal.integrated.fontSize": 12,
+	"terminal.integrated.fontSize": 11,
 	"terminal.integrated.cursorStyle": "line",
 	"terminal.integrated.cursorBlinking": true,
 	"terminal.integrated.scrollback": 5000,
@@ -59,5 +60,11 @@
 	},
 	"[sql]": {
 		"editor.defaultFormatter": "adpyke.vscode-sql-formatter"
+	},
+	"[html]": {
+		"editor.tabSize": 2
+	},
+	"[jinja-html]": {
+		"editor.tabSize": 2
 	},
 }
