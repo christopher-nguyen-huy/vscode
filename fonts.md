@@ -14,4 +14,4 @@ Unpack fonts to `~/.local/share/fonts` (or `/usr/share/fonts`, to install fonts 
 ### Mac
 Select all font files in the folder and double-click them. Click the "Install Font button.
 ### Windows
-Select all font files in the folder, right-click any of them, then pick “Install” from the menu.
+Select all font files in the folder, right-click any of them, then pick "Install" from the menu.
