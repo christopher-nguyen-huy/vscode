@@ -13,7 +13,8 @@
 - CSS Formatter: aeschli.vscode-css-formatter
 - Python: ms-python.python
 - Better Jinja: samuelcolvin.jinjahtml
-- Rust: rust-lang.rust
+- Rust: rust-lang.rust (autocomplete never works)
+- Rust analyzer :matklad.rust-analyzer
 - Trusty Rusty Snippets: polypus74.trusty-rusty-snippets
 - CodeLLDB: vadimcn.vscode-lldb
 - Colonize: vmsynkov.colonize

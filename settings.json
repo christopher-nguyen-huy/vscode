@@ -21,6 +21,7 @@
 	"editor.links": false,
 	"editor.insertSpaces": false,
 	"editor.tabCompletion": "on",
+	"editor.suggest.snippetsPreventQuickSuggestions": false,
 	"editor.quickSuggestions": true,
 	"editor.autoClosingBrackets": "always",
 	"editor.detectIndentation": false,
@@ -39,6 +40,8 @@
 	"python.showStartPage": false,
 	"sqltools.useNodeRuntime": true, // Must install nodejs
 	"sqltools.highlightQuery": false,
+	"rust-analyzer.lens.enable": false,
+	"rust-analyzer.inlayHints.enable": false,
 	"code-runner.enableAppInsights": false,
 	"code-runner.respectShebang": false,
 	"code-runner.ignoreSelection": true,
