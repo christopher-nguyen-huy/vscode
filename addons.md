@@ -62,6 +62,8 @@
 - Cobalt2: wesbos.theme-cobalt2
 - Better Cobalt: afgomez.better-cobalt
 - Shades of Purple: ahmadawais.shades-of-purple
+- Ayu: teabyii.ayu
+- Mayukai: gulajavaministudio.mayukaithemevsc
 
 ### Theme repos
 - [vscodethemes](https://vscodethemes.com/)
