@@ -66,9 +66,9 @@
 		"editor.defaultFormatter": "adpyke.vscode-sql-formatter"
 	},
 	"[html]": {
-		"editor.tabSize": 2
+		"editor.tabSize": 3
 	},
 	"[jinja-html]": {
-		"editor.tabSize": 2
+		"editor.tabSize": 3
 	},
 }
