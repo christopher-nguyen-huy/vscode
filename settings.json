@@ -11,8 +11,8 @@
 	// Standard
 	"telemetry.enableTelemetry": false,
 	"telemetry.enableCrashReporter": false,
-	"files.trimTrailingWhitespace": true,
 	"workbench.startupEditor": "none",
+	"files.trimTrailingWhitespace": false,
 	"editor.accessibilitySupport": "off",
 	"editor.multiCursorModifier": "ctrlCmd",
 	"editor.fontLigatures": true,
