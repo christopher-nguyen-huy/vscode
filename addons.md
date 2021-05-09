@@ -12,6 +12,7 @@
 - SQL Formatter: adpyke.vscode-sql-formatter
 - CSS Formatter: aeschli.vscode-css-formatter
 - Python: ms-python.python
+- Python-Snippets: cstrap.python-snippets
 - Better Jinja: samuelcolvin.jinjahtml
 - Rust: rust-lang.rust (autocomplete never works)
 - Rust analyzer :matklad.rust-analyzer
