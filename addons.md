@@ -7,26 +7,30 @@
 - Sort lines: tyriar.sort-lines
 - Bracket Pair Colorizer (slow): coenraads.bracket-pair-colorizer
 - Bracket Pair Colorizer 2 (not working everywhere): coenraads.bracket-pair-colorizer-2
-- Code runner: formulahendry.code-runner
+- Code Runner: formulahendry.code-runner
 - Peacock: johnpapa.vscode-peacock
 - SQL Formatter: adpyke.vscode-sql-formatter
 - CSS Formatter: aeschli.vscode-css-formatter
+- Even Better Toml: tamasfe.even-better-toml
 - Python: ms-python.python
+- Pylance: ms-python.vscode-pylance
 - Python-Snippets: cstrap.python-snippets
 - Better Jinja: samuelcolvin.jinjahtml
-- Rust: rust-lang.rust (autocomplete never works)
-- Rust analyzer :matklad.rust-analyzer
+- Rust Analyzer: matklad.rust-analyzer
+- Rust Syntax: dustypomerleau.rust-syntax
 - Trusty Rusty Snippets: polypus74.trusty-rusty-snippets
 - CodeLLDB: vadimcn.vscode-lldb
 - Colonize: vmsynkov.colonize
-- Better Toml: bungcip.better-toml
 - SQL Tools: mtxr.sqltools
 - Mysql Driver: mtxr.sqltools-driver-mysql
 - Arduino: vsciot-vscode.vscode-arduino
 - Platform.io: platformio.platformio-ide
 - C/C++: ms-vscode.cpptools
-- Autohotkey: slevesque.vscode-autohotkey
-- Autohotkey Plus: cweijan.vscode-autohotkey-plus
+- Autohotkey Plus Plus: mark-wiemer.vscode-autohotkey-plus-plus
+- ?Better Toml: bungcip.better-toml (maybe deprecated?)
+- ?Rust: rust-lang.rust (autocomplete never works, deprecated)
+- ?Autohotkey: slevesque.vscode-autohotkey (deprecated)
+- ?Autohotkey Plus: cweijan.vscode-autohotkey-plus (deprecated)
 - ?Debugger for Firefox: firefox-devtools.vscode-firefox-debug
 - ?Latex Workshop: james-yu.latex-workshop
 - ?Docker: ms-azuretools.vscode-docker
@@ -56,16 +60,17 @@
 - One Dark: akamud.vscode-theme-onedark
 - One Dark Pro: zhuangtongfa.material-theme
 - One Monokai: azemoh.one-monokai
+- Enki: enkia.enki-vscode-theme
 - Styrokai: jibjack.styrokai
-- Material: equinusocio.vsc-material-theme
-	- equinusocio.vsc-community-material-theme
-	- equinusocio.vsc-material-theme-icons
 - Cobalt Next: dline.CobaltNext
 - Cobalt2: wesbos.theme-cobalt2
 - Better Cobalt: afgomez.better-cobalt
 - Shades of Purple: ahmadawais.shades-of-purple
 - Ayu: teabyii.ayu
 - Mayukai: gulajavaministudio.mayukaithemevsc
+- ?Material: equinusocio.vsc-material-theme (has too many settings)
+	- equinusocio.vsc-community-material-theme
+	- equinusocio.vsc-material-theme-icons
 
 ### Theme repos
 - [vscodethemes](https://vscodethemes.com/)
