@@ -27,17 +27,19 @@
 - Platform.io: platformio.platformio-ide
 - C/C++: ms-vscode.cpptools
 - Autohotkey Plus Plus: mark-wiemer.vscode-autohotkey-plus-plus
+- Markdown All in One: yzhang.markdown-all-in-one
+- Docker: ms-azuretools.vscode-docker
+- ?Riot Tag: crisward.riot-tag
+- ?Riot-js VSC: nesterow.riot-vsc
 - ?Better Toml: bungcip.better-toml (maybe deprecated?)
 - ?Rust: rust-lang.rust (autocomplete never works, deprecated)
 - ?Autohotkey: slevesque.vscode-autohotkey (deprecated)
 - ?Autohotkey Plus: cweijan.vscode-autohotkey-plus (deprecated)
 - ?Debugger for Firefox: firefox-devtools.vscode-firefox-debug
 - ?Latex Workshop: james-yu.latex-workshop
-- ?Docker: ms-azuretools.vscode-docker
 - ?Prettier (Too opiniated): esbenp.prettier-vscode
 - ?Beautify (Only web stuff): hookyqr.beautify
 - ?Markdown Preview Enhanced: shd101wyy.markdown-preview-enhanced
-- ?Markdown All in One: yzhang.markdown-all-in-one
 - ?Mysql (cweijan): cweijan.vscode-mysql-client2
 - ?MySQL (Jun Han): formulahendry.vscode-mysql
 - ?Settings Sync: shan.code-settings-sync
