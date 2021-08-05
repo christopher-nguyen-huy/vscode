@@ -26,7 +26,7 @@
 	"editor.quickSuggestions": true,
 	"editor.autoClosingBrackets": "always",
 	"editor.detectIndentation": false,
-	"editor.suggest.maxVisibleSuggestions": 15,
+	// "editor.suggest.maxVisibleSuggestions": 15,
 	"explorer.openEditors.visible": 0,
 	"extensions.ignoreRecommendations": true,
 	"extensions.showRecommendationsOnlyOnDemand": true,
