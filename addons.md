@@ -63,6 +63,7 @@
 - One Dark Pro: zhuangtongfa.material-theme
 - One Monokai: azemoh.one-monokai
 - Enki: enkia.enki-vscode-theme
+- Tokyo Night: enkia.tokyo-night
 - Styrokai: jibjack.styrokai
 - Cobalt Next: dline.CobaltNext
 - Cobalt2: wesbos.theme-cobalt2
