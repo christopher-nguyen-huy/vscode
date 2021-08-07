@@ -4,7 +4,6 @@
 - Advanced New File: patbenatar.advanced-new-file
 - File Utils: sleistner.vscode-fileutils
 - Insert Date String: jsynowiec.vscode-insertdatestring
-- Sort Lines: tyriar.sort-lines
 - Unique Lines: bibhasdn.unique-lines
 - Bracket Pair Colorizer (slow): coenraads.bracket-pair-colorizer
 - Bracket Pair Colorizer 2 (not working everywhere): coenraads.bracket-pair-colorizer-2
@@ -30,6 +29,8 @@
 - Autohotkey Plus Plus: mark-wiemer.vscode-autohotkey-plus-plus
 - Markdown All in One: yzhang.markdown-all-in-one
 - Docker: ms-azuretools.vscode-docker
+- ?Text Power tools: qcz.text-power-tools (regex extract functionality)
+- ?Sort Lines: tyriar.sort-lines (vs code has built-in sort functionality)
 - ?Riot Tag: crisward.riot-tag
 - ?Riot-js VSC: nesterow.riot-vsc
 - ?Better Toml: bungcip.better-toml (maybe deprecated?)
