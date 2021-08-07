@@ -4,7 +4,8 @@
 - Advanced New File: patbenatar.advanced-new-file
 - File Utils: sleistner.vscode-fileutils
 - Insert Date String: jsynowiec.vscode-insertdatestring
-- Sort lines: tyriar.sort-lines
+- Sort Lines: tyriar.sort-lines
+- Unique Lines: bibhasdn.unique-lines
 - Bracket Pair Colorizer (slow): coenraads.bracket-pair-colorizer
 - Bracket Pair Colorizer 2 (not working everywhere): coenraads.bracket-pair-colorizer-2
 - Code Runner: formulahendry.code-runner
