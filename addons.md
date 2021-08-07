@@ -102,10 +102,13 @@
 - c#: vscode.csharp
 - clojure: vscode.clojure
 - coffeescript: vscode.coffeescript
+- dart: vscode.dart
 - f#: vscode.fsharp
 - groovy: vscode.groovy
 - handlebars: vscode.handlebars
 - hlsl: vscode.hlsl
+- java: vscode.java
+- julia: vscode.julia
 - objective c: vscode.objective-c
 - perl: vscode.
 - php: vscode.php
@@ -113,6 +116,8 @@
 - pug: vscode.pug
 - r: vscode.r
 - razor: vscode.razor
+- ruby: vscode.ruby
+- scss: vscode.scss
 - shaderlabs: vscode.shaderlab
 
 ### Themes
