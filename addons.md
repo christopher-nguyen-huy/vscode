@@ -5,6 +5,7 @@
 - File Utils: sleistner.vscode-fileutils
 - Insert Date String: jsynowiec.vscode-insertdatestring
 - Unique Lines: bibhasdn.unique-lines
+- Lorem ipsum: tyriar.lorem-ipsum
 - Bracket Pair Colorizer (slow): coenraads.bracket-pair-colorizer
 - Bracket Pair Colorizer 2 (not working everywhere): coenraads.bracket-pair-colorizer-2
 - Code Runner: formulahendry.code-runner
