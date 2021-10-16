@@ -6,8 +6,6 @@
 - Insert Date String: jsynowiec.vscode-insertdatestring
 - Unique Lines: bibhasdn.unique-lines
 - Lorem ipsum: tyriar.lorem-ipsum
-- Bracket Pair Colorizer (slow): coenraads.bracket-pair-colorizer
-- Bracket Pair Colorizer 2 (not working everywhere): coenraads.bracket-pair-colorizer-2
 - Code Runner: formulahendry.code-runner
 - Peacock: johnpapa.vscode-peacock
 - SQL Formatter: adpyke.vscode-sql-formatter
@@ -34,6 +32,8 @@
 - ?Sort Lines: tyriar.sort-lines (vs code has built-in sort functionality)
 - ?Riot Tag: crisward.riot-tag
 - ?Riot-js VSC: nesterow.riot-vsc
+- ?Bracket Pair Colorizer (slow, vscode has builtin): coenraads.bracket-pair-colorizer
+- ?Bracket Pair Colorizer 2 (not working everywhere, vscode has builtin): coenraads.bracket-pair-colorizer-2
 - ?Better Toml: bungcip.better-toml (maybe deprecated?)
 - ?Rust: rust-lang.rust (autocomplete never works, deprecated)
 - ?Autohotkey: slevesque.vscode-autohotkey (deprecated)
