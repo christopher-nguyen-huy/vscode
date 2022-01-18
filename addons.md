@@ -72,6 +72,8 @@
 - Enki: enkia.enki-vscode-theme
 - Tokyo Night: enkia.tokyo-night
 - Tokyo Night Frameless: magdalenalipka.tokyo-night-frameless
+- Tokyo Night Pro: marnix.tokyo-night-pro
+- Night Owl: sdras.night-owl
 - Styrokai: jibjack.styrokai
 - Cobalt Next: dline.CobaltNext
 - Cobalt2: wesbos.theme-cobalt2
