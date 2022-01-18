@@ -31,7 +31,6 @@
 - Markdown All in One: yzhang.markdown-all-in-one
 - Docker: ms-azuretools.vscode-docker
 - Kotlin: mathiasfrohlich.Kotlin
-
 - ?Text Power tools: qcz.text-power-tools (regex extract functionality)
 - ?Sort Lines: tyriar.sort-lines (vs code has built-in sort functionality)
 - ?Riot Tag: crisward.riot-tag
