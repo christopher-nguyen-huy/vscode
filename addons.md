@@ -26,12 +26,17 @@
 - Platform.io: platformio.platformio-ide
 - C/C++: ms-vscode.cpptools
 - Autohotkey Plus Plus: mark-wiemer.vscode-autohotkey-plus-plus
+- Lisp: mattn.Lisp
+- Parinfer: shaunlebron.vscode-parinfer
 - Markdown All in One: yzhang.markdown-all-in-one
 - Docker: ms-azuretools.vscode-docker
+- Kotlin: mathiasfrohlich.Kotlin
+
 - ?Text Power tools: qcz.text-power-tools (regex extract functionality)
 - ?Sort Lines: tyriar.sort-lines (vs code has built-in sort functionality)
 - ?Riot Tag: crisward.riot-tag
 - ?Riot-js VSC: nesterow.riot-vsc
+- ?Kotlin: fwcd.kotlin (Very slow and buggy?)
 - ?Bracket Pair Colorizer (slow, vscode has builtin): coenraads.bracket-pair-colorizer
 - ?Bracket Pair Colorizer 2 (not working everywhere, vscode has builtin): coenraads.bracket-pair-colorizer-2
 - ?Better Toml: bungcip.better-toml (maybe deprecated?)
@@ -75,6 +80,7 @@
 - Shades of Purple: ahmadawais.shades-of-purple
 - Ayu: teabyii.ayu
 - Mayukai: gulajavaministudio.mayukaithemevsc
+- Synthwave '84: RobbOwen.synthwave-vscode
 - ?Material: equinusocio.vsc-material-theme (has too many settings)
 	- equinusocio.vsc-community-material-theme
 	- equinusocio.vsc-material-theme-icons
