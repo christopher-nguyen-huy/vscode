@@ -80,9 +80,12 @@ Workspace specific files are in a `.vscode` folder at the root. For example, `ta
 	}
 	```
 ## Extensions
+[Opensource repo](https://open-vsx.org/)
+
 ### From cli
 - `code --list-extensions`
 - `code --install-extension <extension-id>`
+- `code --uninstall-extension <extension-id>`
 
 #### Windows
 On windows `code` points to a batch file, must use `call` before like `exec` in linux
