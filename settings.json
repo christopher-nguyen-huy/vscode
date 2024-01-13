@@ -1,72 +1,88 @@
 {
-	// Workspace
-	"workbench.colorTheme": "Monokai Vibrant",
-	"workbench.activityBar.visible": false,
-	"window.zoomLevel": 0,
-	"editor.fontSize": 11,
-	"editor.renderWhitespace": "none",
-	// OS Specific
-	"window.menuBarVisibility": "toggle",
-	"terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
-	// Standard
-	"telemetry.enableTelemetry": false,
-	"telemetry.enableCrashReporter": false,
+	"update.mode": "manual",
 	"telemetry.telemetryLevel": "off",
-	"workbench.startupEditor": "none",
-	"workbench.editor.untitled.hint": "hidden",
-	"files.trimTrailingWhitespace": false,
-	"editor.fontLigatures": true,
-	"editor.accessibilitySupport": "off",
-	"editor.multiCursorModifier": "ctrlCmd",
-	"editor.minimap.enabled": false,
-	"editor.bracketPairColorization.enabled": true,
-	"editor.guides.bracketPairs": true,
-	"editor.wordWrap": "on",
-	"editor.links": false,
-	"editor.insertSpaces": false,
-	"editor.tabCompletion": "on",
-	"editor.suggest.snippetsPreventQuickSuggestions": false,
-	"editor.quickSuggestions": true,
-	"editor.autoClosingBrackets": "always",
-	"editor.detectIndentation": false,
-	// "editor.suggest.maxVisibleSuggestions": 15,
-	"explorer.openEditors.visible": 0,
+	"security.workspace.trust.enabled": false,
+	"security.workspace.trust.untrustedFiles": "open",
+	"security.workspace.trust.startupPrompt": "never",
+	"extensions.autoCheckUpdates": false,
+	"extensions.autoUpdate": false,
 	"extensions.ignoreRecommendations": true,
-	"extensions.showRecommendationsOnlyOnDemand": true,
-	"terminal.integrated.fontSize": 11,
+	"window.zoomLevel": 0,
+	"window.commandCenter": false,
+	"window.restoreWindows": "all",
+	"window.menuBarVisibility": "toggle",
+	"window.title": "${dirty}${activeEditorMedium}${separator}${rootName}${separator}${appName}",
+	"workbench.editor.empty.hint": "hidden",
+	"workbench.activityBar.location": "hidden",
+	"workbench.startupEditor": "none",
+	"workbench.colorTheme": "Monokai Aora", // "Monokai Vibrant", "MuPanda", "Dracula", "Mayukai Alucard"
+	"editor.accessibilitySupport": "off",
+	"editor.autoClosingBrackets": "always",
+	"editor.bracketPairColorization.enabled": true,
+	"editor.codeLens": false,
+	"editor.detectIndentation": false,
+	"editor.foldingMaximumRegions": 6000,
+	"editor.fontFamily": "CommitMono",
+	"editor.fontLigatures": true,
+	"editor.fontSize": 14,
+	"editor.guides.bracketPairs": true,
+	"editor.inlayHints.enabled": "off",
+	"editor.insertSpaces": false,
+	"editor.links": false,
+	"editor.minimap.enabled": false,
+	"editor.mouseWheelZoom": true,
+	"editor.multiCursorModifier": "ctrlCmd",
+	"editor.renderWhitespace": "none",
+	"editor.suggest.snippetsPreventQuickSuggestions": false,
+	"editor.tabCompletion": "on",
+	"editor.wordWrap": "on",
+	"editor.quickSuggestionsDelay": 8,
+	"editor.quickSuggestions": {
+		"comments": "on",
+		"strings": "on",
+		"other": "on"
+	},
+	"files.trimTrailingWhitespace": false,
+	"explorer.openEditors.visible": 1,
+	"breadcrumbs.enabled": false,
+	"search.searchOnTypeDebouncePeriod": 175,
 	"terminal.integrated.cursorStyle": "line",
 	"terminal.integrated.cursorBlinking": true,
-	"terminal.integrated.scrollback": 5000,
+	"terminal.integrated.scrollback": 10000,
 	"terminal.integrated.tabs.enabled": false,
-	"search.searchOnTypeDebouncePeriod": 175,
-	"breadcrumbs.enabled": false,
-	"window.title": "${dirty}${activeEditorMedium}${separator}${rootName}${separator}${appName}",
-	// Addons
-	"python.showStartPage": false,
-	"sqltools.useNodeRuntime": true, // Must install nodejs
-	"sqltools.highlightQuery": false,
-	"rust-analyzer.lens.enable": false,
-	"rust-analyzer.inlayHints.enable": false,
-	"code-runner.enableAppInsights": false,
-	"code-runner.respectShebang": false,
-	"code-runner.ignoreSelection": true,
-	"code-runner.showRunIconInEditorTitleMenu": false,
-	"code-runner.clearPreviousOutput": true,
-	"code-runner.runInTerminal": true,
-	"platformio-ide.disableToolbar": true,
-	"platformio-ide.disablePIOHomeStartup": true,
-	//"C_Cpp.updateChannel": "Insiders",
-	// Languages
+	"terminal.integrated.defaultProfile.windows": "cmd",
+	"terminal.integrated.profiles.windows": {
+		"PowerShell": {
+			"source": "PowerShell",
+			"icon": "terminal-powershell"
+		},
+		"cmd": {
+			"path": [
+				"${env:windir}\\Sysnative\\cmd.exe",
+				"${env:windir}\\System32\\cmd.exe"
+			],
+			"args": [],
+			"icon": "terminal-cmd"
+		}
+	},
 	"files.exclude": {
 		"**/env": true,
-		"**/venv": true
+		"**/venv": true,
+		"**/target": true,
+		"**/node_modules": true,
 	},
 	"search.exclude": {
 		"**/env": true,
-		"**/venv": true
+		"**/venv": true,
+		"**/target": true,
+		"**/node_modules": true,
+		"**/package-lock.json": true,
+		"**/.gitignore": true,
 	},
-	"code-runner.executorMap": {
-		"rust": "cargo run"
+	"files.watcherExclude": {
+		"**/.git/objects/**": true,
+		"**/node_modules/**": true,
+		"**/dist/*/**": true,
 	},
 	"[rust]": {
 		"editor.semanticHighlighting.enabled": false
@@ -74,18 +90,77 @@
 	"[sql]": {
 		"editor.defaultFormatter": "adpyke.vscode-sql-formatter"
 	},
+	"[css]": {
+		"editor.defaultFormatter": "aeschli.vscode-css-formatter"
+	},
+	"[svelte]": {
+		"editor.defaultFormatter": "svelte.svelte-vscode"
+	},
+	"[zig]": {
+		"editor.defaultFormatter": "ziglang.vscode-zig"
+	},
 	"[html]": {
 		"editor.tabSize": 3
 	},
 	"[jinja-html]": {
 		"editor.tabSize": 3
 	},
-	// What is going on here...?
-	"workbench.editorAssociations": {
-		"*.ipynb": "jupyter-notebook"
+	"[go]": {
+		"editor.formatOnSave": false,
+		"editor.tabSize": 4,
+		"editor.defaultFormatter": "golang.go"
+	},
+	"json.maxItemsComputed": 10000,
+	"python.analysis.autoSearchPaths": false,
+	"python.analysis.autoImportCompletions": false,
+	"code-runner.enableAppInsights": false,
+	"code-runner.respectShebang": false,
+	"code-runner.ignoreSelection": true,
+	"code-runner.showRunIconInEditorTitleMenu": false,
+	"code-runner.clearPreviousOutput": true,
+	"code-runner.runInTerminal": true,
+	"code-runner.executorMap": {
+		"rust": "cargo run",
+		"zig": "zig run",
 	},
 	"notebook.cellToolbarLocation": {
 		"default": "right",
 		"jupyter-notebook": "left"
 	},
+	"rust-analyzer.inlayHints.typeHints.enable": false,
+	"rust-analyzer.lens.enable": false,
+	"rust-analyzer.check.command": "clippy",
+	"rust-analyzer.rustfmt.extraArgs": [
+		"--config",
+		"hard_tabs=true"
+	],
+	"zig.zls.path": "", // C:/Unix/zig/zls.exe
+	"zig.zigPath": "", // c:/Unix/zig/zig.exe
+	"zig.formattingProvider": "off",
+	"platformio-ide.disableToolbar": true,
+	"platformio-ide.disablePIOHomeStartup": true,
+	"sqltools.useNodeRuntime": true, // Must install nodejs
+	"sqltools.highlightQuery": false,
+	"svelte.enable-ts-plugin": true,
+	"liveSassCompile.settings.useNewCompiler": true,
+	"liveSassCompile.settings.showOutputWindowOn": "Error",
+	"liveSassCompile.settings.generateMap": false,
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "expanded",
+			"extensionName": ".css",
+			"generateMap": true,
+			"savePath": null,
+			"savePathReplacementPairs": null
+		},
+		{
+			"format": "compressed",
+			"extensionName": ".min.css",
+			"savePath": null,
+			"savePathReplacementPairs": null
+		}
+	],
+	"adblock.enableAglint": false,
+	"adblock.useExternalAglintPackages": false,
+	"C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: LLVM, UseTab: Always, IndentWidth: 4, TabWidth: 4, BreakBeforeBraces: Attach, AllowShortIfStatementsOnASingleLine: false, IndentCaseLabels: false, ColumnLimit: 0, AccessModifierOffset: -4 }",
 }
